@@ -8,7 +8,7 @@
 body{
     width: 100%;
     height: 100vh;
-    background: linear-gradient(to right, #8e2de2, #4a00e0);
+    background: linear-gradient(to bottom, #eecda3, #ef629f);
     font-size: 62.5%;
     overflow: hidden;
 }
